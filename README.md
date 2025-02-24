@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Villa Utilities Privacy Policy
 
 This repository contains the privacy policy for the Villa Utilities mobile application. The privacy policy is hosted using GitHub Pages and can be accessed at [https://fi-essystems.github.io/vum-privacy-policy](https://fi-essystems.github.io/vum-privacy-policy).
@@ -11,3 +12,7 @@ To view the privacy policy locally:
 ## Deployment
 
 The privacy policy is automatically deployed to GitHub Pages when changes are pushed to the `main` branch.
+=======
+# vum-privacy-policy
+Privacy Policy for VUM App
+>>>>>>> 8bed921255a24379b92b974d1107a22e07bccfbe
